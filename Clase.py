@@ -4,16 +4,20 @@ def main():
     print("Hello, world desde UNSAM!")
 
 
-def dividir(a, b):
-    print(a / b)
-    
-    
 def sumar(a, b):
     print(a + b)
     
     
 def restar(a, b):
     print(a - b)
+
+
+def dividir(a, b):
+    print(a / b)
+    
+
+def multiplicar(a, b):
+    print(a * b)
 
 
 if __name__ == "__main__":
