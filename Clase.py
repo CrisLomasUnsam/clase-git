@@ -4,6 +4,10 @@ def main():
     print("Hello, world desde UNSAM!")
 
 
+def dividir(a, b):
+    print(a / b)
+    
+    
 def sumar(a, b):
     print(a + b)
     
